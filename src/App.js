@@ -118,7 +118,8 @@ function genreClickHandler(genre){
       <div >
         <ul>
           {MovieDB[Selectedgenre].map((mkv)=>(
-            <li  key={mkv.name} id="movies-list"
+            <li  key={mkv.name} 
+            id="movies-list"
             >
               <div   style={{fontSize:"larger",color:"black",backgroundColor:"lightcyan"}}>{mkv.name}</div>
               <div style={{color:"rgb(9, 53, 53)",backgroundColor:"lightcyan"}}><small   >{mkv.rating}</small></div>
