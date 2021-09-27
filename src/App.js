@@ -99,7 +99,7 @@ function genreClickHandler(genre){
       <small id="line-small">Click on the Genre of your choice</small>
       
       <div>
-        {Object.keys(MovieDB).map((genre)=> (<button 
+        {Object.keys(MovieDB).map((genre)=> (<button key={genre}
         onClick={()=>genreClickHandler(genre)} 
         style={{
           borderRadius:"0.5rem",
