@@ -1,4 +1,51 @@
-# Getting Started with Create React App
+# GoodFilms
+Created with CodeSandbox.
+An React based app to Know **Good Fims** . Movies i acn drag you to watch* .
+## Uses
+- Can be used to great **Movies ** 
+- Can be to known *my personal reviews on movies*
+
+
+### A GoodFilms App
+
+## Hosted on Netlify GoodFilms](https://good-films.netlify.app/)
+![GoodFilms](https://github.com/aashirwad01/aashirwad-site/blob/main/images/marknine.png)
+### Intended Use An App to find What's the Emoji.
+
+
+## Tech Stack Used
+- React
+  - hooks
+    - useState
+    - onClick
+    - onChange
+    - setvalue function
+    - event.target.value
+    - map
+  - react dom
+    - input
+    - div
+    - h3 h2 h1
+    - footer
+    - img
+ 
+ 
+- Css
+  - text align
+  - border radius
+  - color
+  - background color
+  - font
+  - font size
+ 
+## Future Additions
+- Can be scaled to display Movie pic alonside names
+- Tech Stack can be improved and expanded to make it more interactive.
+- Can be expanded to have larger database
+- Search Box can be used.
+- Chat feature can be incorporated
+ 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
